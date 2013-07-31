@@ -15,7 +15,7 @@ The format of the symposium mix invited talks and presentations by authors of ac
 
 Submissions should be in AAAI format, no longer than 7 pages, where page 7 must contain only references. 
 
-Submissions should be made via XXX (link to go here).
+Submissions should be made via https://cmt.research.microsoft.com/QRR2014
 
 For more information see: http://strands-project.eu/qualitative-representations-for-robots.html
 
