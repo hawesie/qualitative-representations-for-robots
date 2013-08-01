@@ -7,21 +7,23 @@ This symposium will address topics related to the use of qualitative representat
  * time
  * uncertainty
  * action/behaviour
+ * appearance
+ * context
  * categorical or functional knowledge
 
-We particularly encourage contributions that exploit the key features of qualitative representations to provide new functionality to robot systems, e.g. using qualitative forms to learn from experience over long periods or across large-scale space.
+We particularly encourage contributions that exploit the key features of qualitative approaches to provide new functionality to robots, e.g. to exploit coarse background knowledge or to learn from experience over long periods or across large-scale space.
 
-The format of the symposium mix invited talks and presentations by authors of accepted papers. We will also include discussions and poster sessions if time permits. This event runs in parallel with the symposium on "Knowledge Representation and Reasoning in Robotics". Due to the overlapping nature of these events, we will have joint sessions and coordinate our activities.
+The symposium will include invited talks, presentations on accepted papers, discussion and demonstrations. This event runs in parallel with the symposium on "Knowledge Representation and Reasoning in Robotics". Due to the overlapping nature of these events, we will have joint sessions and coordinate our activities.
 
-Submissions should be in AAAI format, no longer than 7 pages, where page 7 must contain only references. 
+Paper submissions should be in AAAI format, no longer than 8 pages including figures and references. Shorter papers (2-4 pages) can be submitted for demonstrations.
 
 Submissions should be made via https://cmt.research.microsoft.com/QRR2014
 
-For more information see: http://strands-project.eu/qualitative-representations-for-robots.html
+For more information see http://strands-project.eu/qualitative-representations-for-robots.html
 
 Symposium Chair
 
-Nick Hawes (n.a.hawes@cs.bham.ac.uk.)
+Nick Hawes (n.a.hawes@cs.bham.ac.uk)
 University of Birmingham 
 
 Organising Committee
