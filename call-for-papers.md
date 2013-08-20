@@ -1,4 +1,12 @@
-Call for papers: Qualitative Representations for Robots - AAAI Spring Symposium 2014
+
+*****************************************************************
+
+Qualitative Representations for Robots  
+AAAI Spring Symposium 2014  
+March 24–26, 2014 at Stanford University in Palo Alto, California
+
+*****************************************************************
+
 
 The fields of AI and robotics have many approaches to representation and reasoning. This AAAI 2014 Spring Symposium focusses on one approach which has been growing in popularity in recent years: qualitative representations. Such representations abstract away from the quantitative features that underlie many physically situated systems, providing compact, structured representations which omit (unnecessary) detail. Qualitative representations have many advantages, including naturally encoding semantics for many systems, being accessible to humans, providing smaller state spaces for learning, allowing to build robust and complex applications and also suitability for communication. These advantages have seen them being increasingly used in intelligent, physically-grounded systems. This work is being done across many different subfields of AI including knowledge representation and reasoning, planning, learning, and perception. We strongly believe that the time is now right to bring these disparate groups together to share experiences and technical knowledge. We also wish to connect recent robotics work on qualitative representations to the rich history of related ideas in AI.
 
@@ -19,26 +27,26 @@ This event runs in parallel with the symposium on "Knowledge Representation and 
 
 For more information see http://strands-project.eu/qualitative-representations-for-robots.html
 
-# Schedule 
+For more AI and Robotics see http://ai-robotics.wikispaces.com/events
+
+## Schedule 
 
 Paper submission: October 4th, 2013
 Notification:  November 8th, 2013
 Symposium: March 24th–26th, 2014 at Stanford University in Palo Alto, California
 
-# Submissions
+## Submissions
 
 Paper submissions should be in AAAI format, no longer than 8 pages including figures and references. Shorter papers (2-4 pages) can be submitted for demonstrations.
 
 Submissions should be made via https://cmt.research.microsoft.com/QRR2014
 
+## Symposium Chair
 
-
-# Symposium Chair
-
-Nick Hawes (n.a.hawes@cs.bham.ac.uk)
+Nick Hawes (n.a.hawes@cs.bham.ac.uk)  
 University of Birmingham 
 
-# Organising Committee
+## Organising Committee
 
 Alper Aydemir  
 NASA Jet Propulsion Laboratory 
